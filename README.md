@@ -6,11 +6,11 @@ A new Flutter project.
 
 Barebones app to create dynamic forms in flutter
 
-![Screenshots](https://imgur.com/j95gFsd)
-![Screenshots](https://imgur.com/6dDA1Mz)
-![Screenshots](https://imgur.com/zcDJ5VD)
-![Screenshots](https://imgur.com/eRXjyEa)
-![Screenshots](https://imgur.com/7NGz3JP)
+![Screenshots](/screenshot/1.png)
+![Screenshots](/screenshot/2.png)
+![Screenshots](/screenshot/3.png)
+![Screenshots](/screenshot/4.png)
+![Screenshots](/screenshot/5.png)
 
 
 A few resources to get you started if this is your first Flutter project:
